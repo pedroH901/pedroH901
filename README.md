@@ -12,7 +12,7 @@
 
 <!-- Introduction -->
 <p align="center">
-  Me chamo Pedro Henrique, tenho 18 anos, estou estudando constantemente sempre buscando evoluir o que eu já sei.
+  Me chamo Pedro Henrique, tenho 18 anos, estou estudando constantemente sempre buscando evoluir o que eu já sei. </p>
   "Não seja um "sabe-tudo", seja um "aprende-tudo"."
 </p>
 <p align="center">
