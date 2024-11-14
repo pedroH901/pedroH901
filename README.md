@@ -26,6 +26,7 @@ Hobbies: Jogos, alguns filmes e séries.
   <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square" alt="Java">
   <img src="https://img.shields.io/badge/-CSS-2965F1?logo=css3&logoColor=white&style=flat-square" alt="CSS">
   <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat-square" alt="HTML">
+  <h5>Atualmente estudando JS!</h5>
 </p>
 
  
@@ -35,3 +36,4 @@ Hobbies: Jogos, alguns filmes e séries.
 
 - Java programação orientada à objetos, UDEMY.
 - IT Essentials 7, CISCO
+- Google Cloud Computing Foundations.
